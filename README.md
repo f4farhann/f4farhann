@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m working on android<br>🤝 looking to collaborate<br>🌱 I’m currently learning cybersecurity & ethical hacking<br>. . ...And I like Biryani<br>
-<img align="right" alt=“Coding”  width=“400” src="https://media1.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=790b761133367fa17974bb1be54f97247613924f534c1bd0&rid=giphy.gif&ct=s">
+<img align="right" alt=“Coding” height="200" width="200" src="https://media1.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=790b761133367fa17974bb1be54f97247613924f534c1bd0&rid=giphy.gif&ct=s">
 
 
 ## 🌐 Socials:
