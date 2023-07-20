@@ -1,6 +1,6 @@
 # 💫 About Me:
 <img align="right" alt=“Coding” height="100" width="100" src="https://www.gifcen.com/wp-content/uploads/2022/10/charizard-gif.gif">
-🔭 I’m working on android<br>🤝 looking to collaborate<br>🌱 currently learning cybersecurity & ethical hacking<br>. . ...And I like Biryani😅<br>
+🔭 I’m working on android<br>🤝 looking to collaborate<br>🌱 currently learning cybersecurity & ethical hacking<br>
 
 
 
