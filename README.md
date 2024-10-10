@@ -1,6 +1,16 @@
 # 💫 About Me:
 <img align="right" alt=“Coding” height="100" width="100" src="https://www.gifcen.com/wp-content/uploads/2022/10/charizard-gif.gif">
-🔭 I’m working on android<br>🤝 looking to collaborate<br>🌱 <br>
+👋 Hi, I'm farhan!
+
+I'm a passionate software developer with 2 years of experience in building innovative solutions. My expertise spans across various platforms and technologies:
+
+📱 Android Native Development: Experienced in Kotlin and Java to create seamless Android applications.🦩
+🍏 iOS Native Development: Proficient in Swift and Objective-C for developing intuitive iOS apps.
+🌍 Cross-Platform Development: Skilled in building cross-platform mobile apps using frameworks like Flutter.
+💻 Web Development: Versed in HTML, CSS, JavaScript, and modern web frameworks to craft responsive websites.
+I'm always looking to learn new technologies and take on exciting challenges in the software world.
+
+Feel free to explore my projects or reach out for 🤝 collaboration!
 
 
 
