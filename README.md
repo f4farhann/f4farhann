@@ -28,11 +28,3 @@ Feel free to explore my projects or reach out for 🤝 collaboration!
 
 ---
 [![](https://visitcount.itsvg.in/api?id=farhann&icon=6&color=3)](https://visitcount.itsvg.in)
-
-<script>
-    setInterval(() => {
-        const gif = document.getElementById('charizard');
-        gif.src = gif.src; // Reload the GIF to replay
-    }, 5000); // Adjust time (milliseconds) to match the GIF duration
-</script>
-
