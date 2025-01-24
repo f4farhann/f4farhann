@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img align="right" alt=“Coding” height="100" width="100" src="https://www.gifcen.com/wp-content/uploads/2022/10/charizard-gif.gif">
+<img id="charizard" align="right" alt=“Coding” height="100" width="100" src="https://www.gifcen.com/wp-content/uploads/2022/10/charizard-gif.gif">
 👋 Hi, I'm farhan!<br>
 
 I'm a passionate software developer experience in building innovative solutions.<br>
@@ -28,4 +28,11 @@ Feel free to explore my projects or reach out for 🤝 collaboration!
 
 ---
 [![](https://visitcount.itsvg.in/api?id=farhann&icon=6&color=3)](https://visitcount.itsvg.in)
+
+<script>
+    setInterval(() => {
+        const gif = document.getElementById('charizard');
+        gif.src = gif.src; // Reload the GIF to replay
+    }, 5000); // Adjust time (milliseconds) to match the GIF duration
+</script>
 
