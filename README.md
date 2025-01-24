@@ -1,5 +1,5 @@
 # 💫 About Me:
-![Charizard](https://www.gifcen.com/wp-content/uploads/2022/10/charizard-gif.gif)
+<img align="right" alt=“Coding” height="100" width="100" src="https://www.gifcen.com/wpcontent/uploads/2022/10/charizard-gif.gif">
 👋 Hi, I'm farhan!<br>
 
 I'm a passionate software developer experience in building innovative solutions.<br>
