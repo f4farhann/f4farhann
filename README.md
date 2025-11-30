@@ -27,7 +27,7 @@ Feel free to explore my projects or reach out for 🤝 collaboration!
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
 ![Swift UI](https://img.shields.io/badge/Swift%20UI-%23ffffff.svg?style=for-the-badge&logo=Swift%20UI&logoColor=black)
-![Xcode](https://img.shields.io/badge/Xcode-F54A2A?style=for-the-badge&logo=Xcode&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-%23039BE5.svg?style=for-the-badge&logo=Xcode)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Android Studio](https://img.shields.io/badge/android%20studio-%23039BE5.svg?style=for-the-badge&logo=androidstudio)
