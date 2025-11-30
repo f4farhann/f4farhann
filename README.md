@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img id="charizard" align="right" alt=“Coding” height="100" width="100" src="https://www.gifcen.com/wp-content/uploads/2022/10/charizard-gif.gif">
+<img id="charizard" align="right" alt=“Coding” height="100" width="100" src="https://giffiles.alphacoders.com/139/13944.gif">
 👋 Hi, I'm farhan!<br>
 
 I'm an Android & Ios Developer passionate about building scalable and seamless applications.  
