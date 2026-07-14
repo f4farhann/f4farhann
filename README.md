@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hey there 👋
 <img id="charizard" align="right" alt=“Coding” height="150" width="150" src="https://giffiles.alphacoders.com/139/13944.gif">
 👋 Hi, I'm farhan!<br>
 
