@@ -1,17 +1,19 @@
 # Hey there 👋
 <img id="charizard" align="right" alt=“Coding” height="150" width="150" src="https://giffiles.alphacoders.com/139/13944.gif">
-👋 Hi, I'm farhan!<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=This+is+Farhan+Haider)](https://git.io/typing-svg)
 
-I'm an Android & Ios Developer passionate about building scalable and seamless applications.  
-- 💻 Skilled in **Kotlin**, **Jetpack Compose**, **Room DB**, **MVVM**, **Swift**, **SwiftUI** and **API Integration**  
-- 🚀 Love creating clean, efficient, and user-friendly solutions
-  
-I'm always looking to learn new technologies and take on exciting challenges in the software world.<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=This+is+Farhan+Haider" alt="Typing SVG" /></a>
+
+Glad to see you here ❤️<br>
+
+🏢 I am a Software Engineer at TSTP<br>
+🏫 2023 B.Tech. graduate from VTU Karnataka<br>
+🙋‍ More about me: Visit my website<br>
+🖇 Follow me on LinkedIn<br>
+👯 Pronouns: He/His<br>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Let's+Connect" alt="Typing SVG" /></a>
 
 Feel free to explore my projects or reach out for 🤝 collaboration!
-
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/f4farhann) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:f4farhann@gmail.com) 
