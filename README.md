@@ -1,6 +1,7 @@
 # Hey there 👋
 <img id="charizard" align="right" alt=“Coding” height="150" width="150" src="https://giffiles.alphacoders.com/139/13944.gif">
 👋 Hi, I'm farhan!<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=This+is+Farhan+Haider)](https://git.io/typing-svg)
 
 I'm an Android & Ios Developer passionate about building scalable and seamless applications.  
 - 💻 Skilled in **Kotlin**, **Jetpack Compose**, **Room DB**, **MVVM**, **Swift**, **SwiftUI** and **API Integration**  
