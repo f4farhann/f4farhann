@@ -7,7 +7,7 @@ Glad to see you here ❤️<br>
 
 🏢 I am a Software Engineer at TSTP<br>
 🏫 2023 B.Tech. graduate from VTU Karnataka<br>
-🙋‍ More about me: Visit my website<br>
+🙋‍ More about me: Visit my <a href="https://f4farhann.github.io/" rel="nofollow">website</a><br>
 🖇 Follow me on LinkedIn<br>
 👯 Pronouns: He/His<br>
 
