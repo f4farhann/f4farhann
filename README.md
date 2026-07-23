@@ -8,7 +8,7 @@ Glad to see you here ❤️<br>
 🏢 I am a Software Engineer at TSTP<br>
 🏫 2023 B.Tech. graduate from VTU Karnataka<br>
 🙋‍ More about me: Visit my <a href="https://f4farhann.github.io/" rel="nofollow">website</a><br>
-🖇 Follow me on LinkedIn<br>
+🖇 Follow me on <a href="https://www.linkedin.com/in/f4farhann/" rel="nofollow">LinkedIn</a><br>
 👯 Pronouns: He/His<br>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Let's+Connect" alt="Typing SVG" /></a>
